@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **websites for companies**
 
-- 🌱 I’m currently learning **Angular, Java**
+- 🌱 I’m currently learning **ThreeJS, MongoDB, NextJS**
 
-- 📫 How to reach me **sidneyjenpang@gmail.com**
+- 📫 How to reach me **sidneypang@hotmail.co.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
